@@ -4,16 +4,46 @@
 - 🇧🇷 **Portuguese (Native)**  
 - 🇬🇧 **English (Advanced)**  
 
-## Programming Languages  
+##  GitHub Stats
+<!-- Stats + Streak -->
+<div align="center">
+
+
+
+  <!-- Streak Stats -->
+  <img
+    width="55%"
+    alt="GitHub Streak"
+    src="https://nirzak-streak-stats.vercel.app/?user=adsonviana&theme=dark&hide_border=false"
+  />
+
+</div>
+
+
+<br/>
+
+<!-- Activity Graph -->
+<!-- Activity Graph -->
+<p align="center">
+  <img 
+    width="75%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=adsonviana&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&hide_border=true" 
+    alt="Activity Graph"
+  />
+</p>
+
+
+
+
+## Tech Stack
+
+### 🧠 Programming Languages  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-
-## Tech Stack
 
 ### 🎨 Frontend  
 
@@ -54,7 +84,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
-## Others  
+### ⚙️ Others  
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -64,24 +94,17 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adsonviana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adsonviana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adsonviana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=adsonviana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🌐 Socials
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/adsonviana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:adsonaviana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
