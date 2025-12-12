@@ -1,14 +1,4 @@
 
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://linkedin.com/in/adsonviana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adsonaviana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 # 💻 Tech Stack
 
@@ -63,5 +53,17 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adsonviana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://linkedin.com/in/adsonviana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adsonaviana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
